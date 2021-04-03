@@ -20,4 +20,7 @@
 ---
 
 * [📚解析数据](jie-xi-shu-ju.md)
+* [API](api/README.md)
+  * [服务端 API](api/fu-wu-duan-api.md)
+  * [浏览器插件 API](api/liu-lan-qi-cha-jian-api.md)
 
