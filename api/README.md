@@ -14,3 +14,7 @@ description: PAGENOTE API 分为 服务端API 和 插件API。
 
 浏览器插件会暴露一系列 API 供开发者使用，[官方页](https://pagenote.cn/me) 采用了此类 API 与 PAGENOTE 插件进行数数据交换，**此 API 要求已安装浏览器插件。**对网络环境无要求，适合在断网情况下使用。
 
+#### 应用例子
+
+* _\*\*\*\*_[_**PAGENOTE 官方管理页**_](https://pagenote.cn)：管理插件数据、查看、搜索、删除等操作
+
