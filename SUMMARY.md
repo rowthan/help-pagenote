@@ -13,6 +13,7 @@
 ---
 
 * [📪关于 PAGENOTE](guan-yu-wo/README.md)
+  * [隐私协议](guan-yu-wo/yin-si-xie-yi.md)
   * [📝更新日志](guan-yu-wo/geng-xin-ri-zhi.md)
 
 ## 开发者 <a id="gao-ji-yong-fa"></a>
