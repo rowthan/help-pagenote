@@ -6,11 +6,13 @@ description: 我想说的，你想知道的，都记录在这里了。
 
 ### [PAGENOTE](https://pagenote.cn) 是什么？
 
-PAGENOTE 是一个[**浏览器插件**](https://pagenote.logike.cn/install)**、**笔记工具。帮助你在网页上快速的记录，构建自己的笔记系统、知识星球。
+PAGENOTE 是一个[**浏览器插件**](https://pagenote.logike.cn/install)**、**笔记工具。帮助你在网页上快速地记录，构建自己的笔记系统、知识星球。
 
-不同其他笔记软件，PAGENOTE  不需要安装软件，它借助于浏览器插件的形式，让你可以在你浏览的网页里，勾勾画画。
+_你在书本上是怎么做笔记的？ --_ 用荧光笔选中老师讲的重点，然后在一旁空白处留下笔记。
 
-让记录成为自然而然的事，回归最原始的书本笔记方法，看到一行重点文字、图片即可用 PAGENOTE 将它进行标记。
+PAGENOTE，**让浏览的网页宛如在书本，选中即可标记**。勾勾画画才是笔记最本质的操作。
+
+{% page-ref page="guan-yu-wo/wei-le-xiao-er-mei.md" %}
 
 PAGENOTE 坚持**小而美**：
 
