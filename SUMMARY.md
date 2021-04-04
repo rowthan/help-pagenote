@@ -5,6 +5,7 @@
   * [📱手机如何使用](shi-yong-wen-ti/shou-ji-ru-he-shi-yong.md)
 * [🧩功能介绍](gong-neng-jie-shao/README.md)
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
+  * [云盘使用手册](gong-neng-jie-shao/yun-pan-shi-yong-shou-ce.md)
 
 ## 支持我们 <a id="support-us"></a>
 
