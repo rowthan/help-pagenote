@@ -12,7 +12,7 @@ PAGENOTE 是一个[**浏览器插件**](https://pagenote.logike.cn/install)**、
 
 让记录成为自然而然的事，回归最原始的书本笔记方法，看到一行重点文字、图片即可用 PAGENOTE 将它进行标记。
 
-PAGENOTE 坚持的几个理念：
+PAGENOTE 坚持**小而美**：
 
 * 让**记录**变得自然而然。鼠标便是你的画笔。你需要，_**一记**_ 即在；不需要，_**一记**_ 不打扰
 * 让**整理**变得自然而然。_**一记**_ 将整理变得自动化，让你关注到笔记本身，不用纠结文档结构怎么管理。
@@ -22,4 +22,5 @@ PAGENOTE 坚持的几个理念：
 
 * 主站：[https://pagenote.cn](https://pagenote.cn)
 * 备用：[https://pagenote.logike.cn](https://pagenote.cn)
+* 帮助：[https://help.pagenote.cn](https://help.pagenote.cn)
 

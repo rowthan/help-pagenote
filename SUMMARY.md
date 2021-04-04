@@ -14,9 +14,10 @@
 ---
 
 * [📪关于 PAGENOTE](guan-yu-wo/README.md)
+  * [为了小而美](guan-yu-wo/wei-le-xiao-er-mei.md)
   * [功能规划](guan-yu-wo/gong-neng-gui-hua.md)
   * [隐私协议](guan-yu-wo/yin-si-xie-yi.md)
-  * [📝更新日志](guan-yu-wo/geng-xin-ri-zhi.md)
+  * [更新日志](guan-yu-wo/geng-xin-ri-zhi.md)
 
 ## 开发者 <a id="gao-ji-yong-fa"></a>
 
