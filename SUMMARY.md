@@ -4,7 +4,8 @@
 * [🤔猜你想问](shi-yong-wen-ti/README.md)
   * [有些网页不可用](shi-yong-wen-ti/you-xie-wang-ye-bu-ke-yong.md)
   * [手机如何使用](shi-yong-wen-ti/shou-ji-ru-he-shi-yong.md)
-* [🧩功能介绍](gong-neng-jie-shao/README.md)
+  * [离线可用是指什么？](shi-yong-wen-ti/li-xian-ke-yong-shi-zhi-shen-me.md)
+* [功能介绍](gong-neng-jie-shao/README.md)
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
   * [☁️云盘使用手册](gong-neng-jie-shao/yun-pan-shi-yong-shou-ce.md)
 
