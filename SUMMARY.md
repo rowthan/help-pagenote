@@ -12,6 +12,7 @@
 ## 我们 <a id="support-us"></a>
 
 * [❤️助力发展](support-us/bang-zhu-pagenote.md)
+* [用户福利](support-us/yong-hu-fu-li.md)
 * [参与内测](support-us/can-yu-nei-ce.md)
 
 ---
