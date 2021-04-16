@@ -9,9 +9,10 @@
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
   * [☁️云盘使用手册](gong-neng-jie-shao/yun-pan-shi-yong-shou-ce.md)
 
-## 支持我们 <a id="support-us"></a>
+## 我们 <a id="support-us"></a>
 
 * [❤️助力发展](support-us/bang-zhu-pagenote.md)
+* [参与内测](support-us/can-yu-nei-ce.md)
 
 ---
 
