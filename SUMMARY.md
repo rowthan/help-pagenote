@@ -6,6 +6,7 @@
   * [手机如何使用](shi-yong-wen-ti/shou-ji-ru-he-shi-yong.md)
   * [离线可用是指什么？](shi-yong-wen-ti/li-xian-ke-yong-shi-zhi-shen-me.md)
 * [功能介绍](gong-neng-jie-shao/README.md)
+  * [长按唤起](gong-neng-jie-shao/chang-an-huan-qi.md)
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
   * [☁️云盘使用手册](gong-neng-jie-shao/yun-pan-shi-yong-shou-ce.md)
 
@@ -25,10 +26,8 @@
 
 ## 开发者 <a id="gao-ji-yong-fa"></a>
 
----
-
-* [📚解析数据](jie-xi-shu-ju.md)
-* [API](api/README.md)
-  * [服务端 API](api/fu-wu-duan-api.md)
-  * [浏览器插件 API](api/liu-lan-qi-cha-jian-api.md)
+* [📚解析数据](gao-ji-yong-fa/jie-xi-shu-ju.md)
+* [API](gao-ji-yong-fa/api/README.md)
+  * [服务端 API](gao-ji-yong-fa/api/fu-wu-duan-api.md)
+  * [浏览器插件 API](gao-ji-yong-fa/api/liu-lan-qi-cha-jian-api.md)
 
