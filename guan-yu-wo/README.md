@@ -27,8 +27,6 @@ description: "鸡蛋好吃，若你想了解下单的母鸡（这么比喻自己
 
 {% page-ref page="yin-si-xie-yi.md" %}
 
-{% page-ref page="geng-xin-ri-zhi.md" %}
-
 
 
 

@@ -9,6 +9,8 @@
   * [长按唤起](gong-neng-jie-shao/chang-an-huan-qi.md)
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
   * [☁️云盘使用手册](gong-neng-jie-shao/yun-pan-shi-yong-shou-ce.md)
+* [最新动态](zui-xin-dong-tai/README.md)
+  * [0.15.9 功能异常说明](zui-xin-dong-tai/0.15.9-gong-neng-yi-chang-shuo-ming.md)
 
 ## 我们 <a id="support-us"></a>
 
@@ -22,7 +24,6 @@
   * [为了小而美](guan-yu-wo/wei-le-xiao-er-mei.md)
   * [功能规划](guan-yu-wo/gong-neng-gui-hua.md)
   * [隐私协议](guan-yu-wo/yin-si-xie-yi.md)
-  * [更新日志](guan-yu-wo/geng-xin-ri-zhi.md)
   * [About License](guan-yu-wo/about-license.md)
 
 ## 开发者 <a id="gao-ji-yong-fa"></a>
