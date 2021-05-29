@@ -13,9 +13,9 @@ description: 加入一记用户群可获得最新内测版，抢先体验最新�
 
 以 Chrome 浏览器为例：
 
-1. 浏览器输入 chrome://extensions/ 访问
-2. 从微信公众号或用户群中获取离线安装zip包。**将安装包进行解压后**，找到文件名为`pagenote.xxx.zip` 的文件。
-3. 开启右上角「开发者模式」开关后，直接将文件拖入浏览器中，即可完成安装。
+1. 访问 chrome://extensions/ 
+2. 从微信公众号或用户群中获取离线安装zip包。**将安装包进行解压后**，找到文件名为`pagenote.xxx.zip 或 xxx.pagenote.zip` 的文件\(xxx 为版本号\)。
+3. 开启右上角「开发者模式」开关，将文件拖入浏览器中，安装完成。
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
