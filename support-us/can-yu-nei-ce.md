@@ -19,7 +19,7 @@ description: 预计内测版发布一周后，将上架应用商城。加入一�
 
 ### 安装教程
 
-以 Chrome 浏览器为例：
+#### 以 Chrome 浏览器为例：
 
 1. 访问 chrome://extensions/ 
 2. 获取到安装包 `pagenote.xxx.zip 或 xxx.pagenote.zip` 的文件\(xxx 为版本号\)。
@@ -27,9 +27,19 @@ description: 预计内测版发布一周后，将上架应用商城。加入一�
 
 ![](../.gitbook/assets/image%20%2818%29.png)
 
+### firefox:
+
+1. 访问 about:debugging\#/runtime/this-firefox
+2. 获取到安装包 `pagenote.xxx.zip 或 xxx.pagenote.zip` 的文件\(xxx 为版本号\)，**将其解压（与Chrome不同）**。
+3. 选择「临时载入附加组件」，选择 `mainifest.json` 文件，安装完成。
+
+![](../.gitbook/assets/image%20%2822%29.png)
+
+![&#x5B89;&#x88C5;&#x5185;&#x6D4B;&#x7248;&#x524D;&#xFF0C;&#x8BF7;&#x5148;&#x7981;&#x7528;&#x5728;&#x7EBF;&#x5B89;&#x88C5;&#x7248;&#x672C;](../.gitbook/assets/image%20%2821%29.png)
+
 ### 管理页网址
 
-内测版管理页请前往 [https://pagenote.logike.cn/me](https://pagenote.logike.cn/me)
+内测版管理页需要搭配测试版管理页使用： [https://pagenote.logike.cn/me](https://pagenote.logike.cn/me)
 
 ### 安装包下载
 
