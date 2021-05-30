@@ -4,7 +4,7 @@ description: 加入一记用户群可获得最新内测版，抢先体验最新�
 
 # 参与内测教程&下载
 
-### 那些情况需要离线安装
+### 哪些情况需要离线安装
 
 * 无法访问[谷歌](https://chrome.google.com/webstore/detail/pagenotehighlight-and-ann/hpekbddiphlmlfjebppjhemobaopekmp?utm_source=chrome-ntp-icon)应用商城
 * 参与内测
