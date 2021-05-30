@@ -19,8 +19,6 @@ const encrypteString = Aes.encrypt(dataString,secretKey).toString();
 
 经过加密后的字符串数据 `encryptedString` 将上传至用户个人云盘 `pagenote/pages`，目录下，如下图：
 
-![](../.gitbook/assets/image%20%281%29%20%281%29.png)
-
 ### 解密方式
 
 自行获取文件内容后，使用设置的密钥进行解密，方法如下：
