@@ -15,7 +15,7 @@ description: 加入一记用户群可获得最新内测版，抢先体验最新�
 
 注意：如果已在线安装，**不用卸载（卸载后本地数据也将被清空）**，只需要将在线版关闭即可。
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### 安装教程
 
@@ -25,7 +25,7 @@ description: 加入一记用户群可获得最新内测版，抢先体验最新�
 2. 获取到安装包 `pagenote.xxx.zip 或 xxx.pagenote.zip` 的文件\(xxx 为版本号\)。
 3. 开启右上角「开发者模式」开关，将文件拖入浏览器中，安装完成。
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 ### 管理页网址
 

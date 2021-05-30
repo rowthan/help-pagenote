@@ -13,5 +13,5 @@
 
 前往 [https://pagenote.logike.cn/me\#/setting/extension](https://pagenote.logike.cn/me#/setting/extension) 配置
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
