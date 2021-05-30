@@ -18,7 +18,7 @@
 
 * [❤️助力发展](support-us/bang-zhu-pagenote.md)
 * [用户福利](support-us/yong-hu-fu-li.md)
-* [参与内测教程](support-us/can-yu-nei-ce.md)
+* [参与内测教程&下载](support-us/can-yu-nei-ce.md)
 
 ---
 

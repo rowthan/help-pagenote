@@ -2,12 +2,16 @@
 description: 加入一记用户群可获得最新内测版，抢先体验最新功能。
 ---
 
-# 参与内测教程
+# 参与内测教程&下载
 
 ### 那些情况需要离线安装
 
 * 无法访问[谷歌](https://chrome.google.com/webstore/detail/pagenotehighlight-and-ann/hpekbddiphlmlfjebppjhemobaopekmp?utm_source=chrome-ntp-icon)应用商城
 * 参与内测
+
+除以上情况，不建议使用离线安装。离线安装将不能自动升级。部分功能也将受到限制。
+
+在线安装地址： [https://pagenote.cn/release](https://pagenote.cn/release)
 
 注意：如果已在线安装，**不用卸载（卸载后本地数据也将被清空）**，只需要将在线版关闭即可。
 
