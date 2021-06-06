@@ -1,23 +1,48 @@
 ---
-description: 预计内测版发布一周后，将上架应用商城。加入一记用户群可实时获取最新资讯，抢先体验最新功能。
+description: 提前使用预发布功能，参与功能完善。
 ---
 
-# 参与内测、离线安装教程
+# 参与内测 & 离线安装教程
 
 ### 哪些情况需要离线安装
 
 * 使用Chrome浏览器，但无法访问[谷歌](https://chrome.google.com/webstore/detail/pagenotehighlight-and-ann/hpekbddiphlmlfjebppjhemobaopekmp?utm_source=chrome-ntp-icon)应用商城
 * 参与内测
 
-**除以上情况，不建议使用离线安装**。离线安装将不能自动升级。部分功能也将受到限制。
+_**除以上情况，不建议使用离线安装**。离线安装将不能自动升级。部分功能也将受到限制。_
 
-### 安装包下载
+### 内测列表
 
-{% file src="../.gitbook/assets/pagenote.0.16.0.beta.zip" caption="下载内测版" %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p>&#x5185;&#x6D4B;&#x7248;&#x672C;&amp;</p>
+        <p>&#x4E0B;&#x8F7D;&#x5B89;&#x88C5;&#x5305;</p>
+      </th>
+      <th style="text-align:left">&#x5185;&#x6D4B;&#x529F;&#x80FD;</th>
+      <th style="text-align:left">&#x7BA1;&#x7406;&#x9875;&#x5730;&#x5740;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><del>0.16.3</del>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>&#x4E91;&#x76D8;&#x8D26;&#x53F7;&#x4E0E; pagenote &#x8D26;&#x53F7;&#x7ED1;&#x5B9A;</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
+### 注意事项
 
-
-**内测使用注意**：如果已在线安装，**不用卸载（卸载后本地数据也将被清空）**，只需要将在线版关闭即可。
+* 如果已在线安装，**不用卸载（卸载后本地数据也将被清空）**，只需要将在线版关闭即可。
+* 安装多个 PAGENOTE 版本本地数据**隔离不共享**，如需同步，请使用云盘功能实现。
+* 内测版本有独立的管理页网址。请前往对应地址使用。
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
