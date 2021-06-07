@@ -18,10 +18,17 @@ _**除以上情况，不建议使用离线安装**。离线安装将不能自动
     <tr>
       <th style="text-align:left">&#x4E0B;&#x8F7D;&#x94FE;&#x63A5;</th>
       <th style="text-align:left">&#x5185;&#x6D4B;&#x529F;&#x80FD;</th>
-      <th style="text-align:left">&#x7BA1;&#x7406;&#x9875;&#x5730;&#x5740;</th>
+      <th style="text-align:left">&#x5907;&#x6CE8;</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><a href="https://pagenote.logike.cn/download/pagenote.0.16.4.zip">0.16.4</a>
+      </td>
+      <td style="text-align:left">&#x4FEE;&#x590D;Firefox&#x4E0B;&#x4E91;&#x76D8;&#x72B6;&#x6001;&#x540C;&#x6B65;&#x4E0D;&#x6210;&#x529F;&#x95EE;&#x9898;</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
     <tr>
       <td style="text-align:left"><a href="https://pagenote.logike.cn/download/pagenote.0.16.3.beta.zip">0.16.3</a>.beta</td>
       <td
@@ -30,7 +37,12 @@ _**除以上情况，不建议使用离线安装**。离线安装将不能自动
           <li>&#x4E91;&#x76D8;&#x8D26;&#x53F7;&#x4E0E; pagenote &#x8D26;&#x53F7;&#x7ED1;&#x5B9A;</li>
         </ul>
         </td>
-        <td style="text-align:left"></td>
+        <td style="text-align:left">&#x4E0D;&#x63A8;&#x8350;&#x4F7F;&#x7528;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
