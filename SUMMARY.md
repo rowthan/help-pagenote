@@ -9,11 +9,11 @@
   * [长按唤起](gong-neng-jie-shao/chang-an-huan-qi.md)
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
   * [☁️云盘使用手册](gong-neng-jie-shao/yun-pan-shi-yong-shou-ce.md)
-* [最新动态](zui-xin-dong-tai/README.md)
-  * [Pro 投一票](zui-xin-dong-tai/pro-plan.md)
-  * [0.16.0.beta 内测版发布](zui-xin-dong-tai/0.16.0.beta-nei-ce-ban-fa-bu.md)
-  * [0.15.11.beta 内测版发布](zui-xin-dong-tai/0.15.11.beta-nei-ce-ban-fa-bu.md)
-  * [0.15.9 功能异常说明](zui-xin-dong-tai/0.15.9-gong-neng-yi-chang-shuo-ming.md)
+* [最新动态](recent/README.md)
+  * [Pro 投一票](recent/pro-plan.md)
+  * [0.16.0.beta 内测版发布](recent/0.16.0.beta-nei-ce-ban-fa-bu.md)
+  * [0.15.11.beta 内测版发布](recent/0.15.11.beta-nei-ce-ban-fa-bu.md)
+  * [0.15.9 功能异常说明](recent/0.15.9-gong-neng-yi-chang-shuo-ming.md)
 
 ## 我们 <a id="support-us"></a>
 
