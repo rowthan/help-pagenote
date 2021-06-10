@@ -1,10 +1,10 @@
 # Table of contents
 
 * [🏡从这里开始](README.md)
-* [🤔猜你想问](shi-yong-wen-ti/README.md)
-  * [有些网页不可用，面板出不来](shi-yong-wen-ti/you-xie-wang-ye-bu-ke-yong.md)
-  * [手机如何使用](shi-yong-wen-ti/shou-ji-ru-he-shi-yong.md)
-  * [离线可用是指什么？](shi-yong-wen-ti/li-xian-ke-yong-shi-zhi-shen-me.md)
+* [🤔猜你想问](question/README.md)
+  * [有些网页不可用，面板出不来](question/you-xie-wang-ye-bu-ke-yong.md)
+  * [手机如何使用](question/shou-ji-ru-he-shi-yong.md)
+  * [离线可用是指什么？](question/li-xian-ke-yong-shi-zhi-shen-me.md)
 * [功能介绍](gong-neng-jie-shao/README.md)
   * [长按唤起](gong-neng-jie-shao/chang-an-huan-qi.md)
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
