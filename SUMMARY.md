@@ -5,6 +5,7 @@
   * [有些网页不可用，面板出不来](question/you-xie-wang-ye-bu-ke-yong.md)
   * [手机如何使用](question/shou-ji-ru-he-shi-yong.md)
   * [离线可用是指什么？](question/li-xian-ke-yong-shi-zhi-shen-me.md)
+  * [登录 & 与 PAGENOTE 账号绑定](question/deng-lu-yu-pagenote-zhang-hao-bang-ding.md)
 * [功能介绍](gong-neng-jie-shao/README.md)
   * [长按唤起](gong-neng-jie-shao/chang-an-huan-qi.md)
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
