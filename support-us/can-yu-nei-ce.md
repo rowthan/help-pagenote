@@ -23,8 +23,18 @@ _**除以上情况，不建议使用离线安装**。离线安装将不能自动
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="https://pagenote.logike.cn/download/pagenote.0.16.4.zip">0.16.4</a>
+      <td style="text-align:left"><a href="https://pagenote.cn/download/0.16.7.beta.zip">0.16.7</a>
       </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>&#x652F;&#x6301;&#x6253;&#x5370;&#x6A21;&#x5F0F;&#x4E0B;&#x6807;&#x8BB0;&#x80CC;&#x666F;&#x663E;&#x793A;</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">0.16.4</td>
       <td style="text-align:left">&#x4FEE;&#x590D;Firefox&#x4E0B;&#x4E91;&#x76D8;&#x72B6;&#x6001;&#x540C;&#x6B65;&#x4E0D;&#x6210;&#x529F;&#x95EE;&#x9898;</td>
       <td
       style="text-align:left"></td>
