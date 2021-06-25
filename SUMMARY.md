@@ -29,6 +29,7 @@
   * [功能规划](guan-yu-wo/gong-neng-gui-hua.md)
   * [隐私协议](guan-yu-wo/yin-si-xie-yi.md)
   * [About License](guan-yu-wo/about-license.md)
+  * [赞助定制](guan-yu-wo/zan-zhu-ding-zhi.md)
 
 ## 开发者 <a id="gao-ji-yong-fa"></a>
 
