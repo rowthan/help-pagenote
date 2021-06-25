@@ -10,7 +10,9 @@ PAGENOTE 是一个[**浏览器插件**](https://pagenote.logike.cn/install)**、
 
 _你在书本上是怎么做笔记的？ --_ 用荧光笔选中老师讲的重点，然后在一旁空白处留下笔记。
 
-PAGENOTE，**让浏览的网页宛如在书本，选中即可标记**。勾勾画画才是笔记最本质的操作。
+PAGENOTE，**让网页宛如书本，选中即可标记**。
+
+勾勾画画才是笔记最原始的操作。
 
 {% page-ref page="guan-yu-wo/wei-le-xiao-er-mei.md" %}
 
