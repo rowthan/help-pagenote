@@ -24,12 +24,12 @@
 
 ---
 
-* [📪关于 PAGENOTE](guan-yu-wo/README.md)
-  * [为了小而美](guan-yu-wo/wei-le-xiao-er-mei.md)
-  * [功能规划](guan-yu-wo/gong-neng-gui-hua.md)
-  * [隐私协议](guan-yu-wo/yin-si-xie-yi.md)
-  * [About License](guan-yu-wo/about-license.md)
-  * [赞助定制](guan-yu-wo/zan-zhu-ding-zhi.md)
+* [📪关于 PAGENOTE](about/README.md)
+  * [为了小而美](about/wei-le-xiao-er-mei.md)
+  * [功能规划](about/gong-neng-gui-hua.md)
+  * [隐私协议](about/yin-si-xie-yi.md)
+  * [About License](about/about-license.md)
+  * [赞助定制](about/zan-zhu-ding-zhi.md)
 
 ## 开发者 <a id="gao-ji-yong-fa"></a>
 

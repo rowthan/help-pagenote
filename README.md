@@ -14,7 +14,7 @@ PAGENOTE，**让网页宛如书本，选中即可标记**。
 
 勾勾画画才是笔记最原始的操作。
 
-{% page-ref page="guan-yu-wo/wei-le-xiao-er-mei.md" %}
+{% page-ref page="about/wei-le-xiao-er-mei.md" %}
 
 PAGENOTE 坚持**小而美**：
 
