@@ -6,15 +6,15 @@
   * [手机如何使用](question/shou-ji-ru-he-shi-yong.md)
   * [离线可用是指什么？](question/li-xian-ke-yong-shi-zhi-shen-me.md)
   * [登录 & 与 PAGENOTE 账号绑定](question/about-account.md)
-* [功能介绍](gong-neng-jie-shao/README.md)
+* [💻功能介绍](gong-neng-jie-shao/README.md)
   * [长按唤起](gong-neng-jie-shao/chang-an-huan-qi.md)
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
   * [☁️云盘使用手册](gong-neng-jie-shao/yun-pan-shi-yong-shou-ce.md)
-* [最新动态](recent/README.md)
-  * [Pro 投一票](recent/pro-plan.md)
+* [📅最新动态](recent/README.md)
   * [0.16.0.beta 内测版发布](recent/0.16.0.beta-nei-ce-ban-fa-bu.md)
   * [0.15.11.beta 内测版发布](recent/0.15.11.beta-nei-ce-ban-fa-bu.md)
   * [0.15.9 功能异常说明](recent/0.15.9-gong-neng-yi-chang-shuo-ming.md)
+* [🐯Pro 投一票](pro-plan.md)
 
 ## 我们 <a id="support-us"></a>
 
@@ -33,8 +33,8 @@
 
 ## 开发者 <a id="gao-ji-yong-fa"></a>
 
-* [📚解析数据](gao-ji-yong-fa/jie-xi-shu-ju.md)
 * [API](gao-ji-yong-fa/api/README.md)
+  * [📚解析数据](gao-ji-yong-fa/api/jie-xi-shu-ju.md)
   * [服务端 API](gao-ji-yong-fa/api/fu-wu-duan-api.md)
   * [浏览器插件 API](gao-ji-yong-fa/api/liu-lan-qi-cha-jian-api.md)
 
