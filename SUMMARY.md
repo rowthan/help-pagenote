@@ -5,7 +5,7 @@
   * [管理页访问不了怎么办？](question/manage_page.md)
   * [有些网页不可用，面板出不来](question/you-xie-wang-ye-bu-ke-yong.md)
   * [手机如何使用](question/shou-ji-ru-he-shi-yong.md)
-  * [离线可用是指什么？](question/li-xian-ke-yong-shi-zhi-shen-me.md)
+  * [离线可用是指什么？](question/offline.md)
   * [登录 & 与 PAGENOTE 账号绑定](question/about-account.md)
 * [💻功能介绍](gong-neng-jie-shao/README.md)
   * [长按唤起](gong-neng-jie-shao/chang-an-huan-qi.md)
