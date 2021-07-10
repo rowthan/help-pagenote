@@ -30,7 +30,7 @@ description: "我是超爱插件开发的发烧友\U0001F912。业务时间参�
 
 ### 🔗其他
 
-{% page-ref page="../gong-neng-jie-shao/" %}
+{% page-ref page="../guide/" %}
 
 {% page-ref page="yin-si-xie-yi.md" %}
 

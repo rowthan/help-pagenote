@@ -16,7 +16,7 @@ description: 少数网站无法使用 PAGENOTE。一般分为以下情况：1、
 
 选中文本后操作面板未出现？可能是使用了「长按唤起」功能，检查一下配置吧。
 
-{% page-ref page="../gong-neng-jie-shao/chang-an-huan-qi.md" %}
+{% page-ref page="../guide/chang-an-huan-qi.md" %}
 
 ### 其他使用方式
 
