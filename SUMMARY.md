@@ -8,6 +8,7 @@
   * [离线可用是指什么？](question/offline.md)
   * [登录 & 与 PAGENOTE 账号绑定](question/about-account.md)
 * [💻功能介绍](gong-neng-jie-shao/README.md)
+  * [🔍搜索引擎结果高亮](gong-neng-jie-shao/search.md)
   * [长按唤起](gong-neng-jie-shao/chang-an-huan-qi.md)
   * [🖌勾勾画画选重点](gong-neng-jie-shao/gou-gou-hua-hua-xuan-zhong-dian.md)
   * [☁️云盘使用手册](gong-neng-jie-shao/yun-pan-shi-yong-shou-ce.md)
