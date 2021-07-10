@@ -8,7 +8,7 @@
   * [离线可用是指什么？](question/offline.md)
   * [登录 & 与 PAGENOTE 账号绑定](question/about-account.md)
 * [💻功能介绍](guide/README.md)
-  * [🔍搜索引擎结果高亮](guide/search.md)
+  * [🔍高亮搜索引擎结果](guide/search.md)
   * [长按唤起](guide/chang-an-huan-qi.md)
   * [🖌勾勾画画选重点](guide/gou-gou-hua-hua-xuan-zhong-dian.md)
   * [☁️云盘使用手册](guide/yun-pan-shi-yong-shou-ce.md)
