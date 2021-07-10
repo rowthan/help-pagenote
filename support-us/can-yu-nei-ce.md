@@ -23,7 +23,7 @@ _**除以上情况，不建议使用离线安装**。离线安装将不能自动
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="https://pagenote.cn/download/0.16.9.0.zip">0.16.9.0</a>
+      <td style="text-align:left"><a href="https://pagenote.cn/download/pagenote.0.16.9.0.zip">0.16.9.0</a>
       </td>
       <td style="text-align:left"><a href="https://help.pagenote.cn/guide/search">&#x641C;&#x7D22;&#x5F15;&#x64CE;&#x7ED3;&#x679C;&#x4E2D;&#xFF0C;&#x5C55;&#x793A;&#x4F60;&#x9AD8;&#x4EAE;&#x6807;&#x8BB0;&#x8FC7;&#x7684;&#x7F51;&#x9875;&#x3002;</a>
       </td>
