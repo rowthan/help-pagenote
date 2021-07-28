@@ -6,6 +6,7 @@
   * [有些网页不可用，面板出不来](question/you-xie-wang-ye-bu-ke-yong.md)
   * [手机如何使用](question/shou-ji-ru-he-shi-yong.md)
   * [离线可用是指什么？](question/offline.md)
+  * [如何使用 SVG 图片](question/svg.md)
   * [登录 & 与 PAGENOTE 账号绑定](question/about-account.md)
 * [💻功能介绍](guide/README.md)
   * [🔍高亮搜索引擎结果](guide/search.md)
