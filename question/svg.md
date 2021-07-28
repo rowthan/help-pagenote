@@ -6,7 +6,7 @@ description: svg 是一种适量图片格式。有提交小，不失真等优点
 
 ### 如何在 PAGENOTE 扩展中自定义图标？
 
-1. 在 iconfont 中找到你喜欢的图标
+1. 在[iconfont 网站](https://www.iconfont.cn/search/index?searchType=icon&q=%E7%94%BB%E7%AC%94&page=1&fromCollection=-1&fills=&tag=)中找到你喜欢的图标
 
 ![](../.gitbook/assets/image%20%2838%29.png)
 
