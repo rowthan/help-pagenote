@@ -8,7 +8,7 @@ description: 关注微信公众号： pagenote
 
 {% tabs %}
 {% tab title="微信公众号" %}
-![&#x5173;&#x6CE8;&#x5FAE;&#x4FE1;&#x516C;&#x4F17;&#x53F7;&#x4E0E;&#x6211;&#x8054;&#x7CFB;](../.gitbook/assets/wechat%20%281%29.jpg)
+![&#x5FAE;&#x4FE1;&#x626B;&#x4E00;&#x626B;](../.gitbook/assets/wechat%20%281%29.jpg)
 {% endtab %}
 
 {% tab title="即刻" %}
