@@ -8,11 +8,7 @@ description: 如果你愿意，可以参与到 PAGENOTE 的壮大中来。帮助
 
 {% tabs %}
 {% tab title="1.小额赞助" %}
-💰 PAGENOTE 目前**完全免费**。[打赏](https://pagenote.logike.cn/donation)可以帮助 PAGENOTE 走更远。
-
-❤ 特别感谢支持过 PAGENOTE 的用户：[https://pagenote.logike.cn/donation](https://pagenote.logike.cn/donation)
-
-![&#x91D1;&#x989D;&#x968F;&#x610F;&#x3001;&#x81EA;&#x9009;&#x8BBE;&#x5B9A;&#x3002;&#x8D5E;&#x52A9;&#x7528;&#x6237;&#x672A;&#x6765;&#x5C06;&#x5F97;&#x5230;&#x6700;&#x5927;&#x7A0B;&#x5EA6;&#x4F18;&#x60E0;&#x3001;&#x798F;&#x5229;](../.gitbook/assets/image%20%282%29.png)
+💰 [打赏](https://pagenote.cn/donation)或[赞助](https://pagenote.cn/pro-plan)可以帮助 PAGENOTE 走更远
 {% endtab %}
 
 {% tab title="2.关注+好评" %}
@@ -37,6 +33,4 @@ description: 如果你愿意，可以参与到 PAGENOTE 的壮大中来。帮助
 {% endtabs %}
 
 {% page-ref page="yong-hu-fu-li.md" %}
-
-
 
