@@ -1,10 +1,6 @@
 # 用户福利
 
-## 提前注册，锁定优惠
-
-立即[注册](https://pagenote.cn/signup)，可以提前锁定优惠
-
-## 🤺 找工作、投简历
+### 🤺 找工作、投简历
 
 {% tabs %}
 {% tab title="通过 PAGENOTE 找工作" %}
