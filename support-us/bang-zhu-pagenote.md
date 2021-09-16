@@ -32,5 +32,3 @@ description: 如果你愿意，可以参与到 PAGENOTE 的壮大中来。帮助
 {% endtab %}
 {% endtabs %}
 
-{% page-ref page="yong-hu-fu-li.md" %}
-
